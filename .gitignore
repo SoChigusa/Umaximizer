@@ -2,3 +2,5 @@
 develop/*.png
 develop/*.jpg
 develop/*.html
+img/*
+Umaximizer.py
